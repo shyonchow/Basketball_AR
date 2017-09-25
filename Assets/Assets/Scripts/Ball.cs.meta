@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: ecb9b432027394b6ea8ff6ef9f96048d
+timeCreated: 1495004759
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - score: {instanceID: 0}
+  - rim: {fileID: 8300000, guid: 24034c8f7513f43b1987417596377dfb, type: 3}
+  - board: {instanceID: 0}
+  - goal: {instanceID: 0}
+  - miss: {instanceID: 0}
+  - swoosh: {instanceID: 0}
+  - fireworks: {instanceID: 0}
+  - startPos: {instanceID: 0}
+  - Target: {instanceID: 0}
+  - bBall: {instanceID: 0}
+  - detector1: {instanceID: 0}
+  - detector2: {instanceID: 0}
+  - detector3: {instanceID: 0}
+  - detector4: {instanceID: 0}
+  - origin: {instanceID: 0}
+  - firework: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
